@@ -1,0 +1,14 @@
+/home/isolyth/Documents/Programming/Projects/DollCode/DollCode/bin/Debug/net9.0/DollCode
+/home/isolyth/Documents/Programming/Projects/DollCode/DollCode/bin/Debug/net9.0/DollCode.deps.json
+/home/isolyth/Documents/Programming/Projects/DollCode/DollCode/bin/Debug/net9.0/DollCode.runtimeconfig.json
+/home/isolyth/Documents/Programming/Projects/DollCode/DollCode/bin/Debug/net9.0/DollCode.dll
+/home/isolyth/Documents/Programming/Projects/DollCode/DollCode/bin/Debug/net9.0/DollCode.pdb
+/home/isolyth/Documents/Programming/Projects/DollCode/DollCode/obj/Debug/net9.0/DollCode.GeneratedMSBuildEditorConfig.editorconfig
+/home/isolyth/Documents/Programming/Projects/DollCode/DollCode/obj/Debug/net9.0/DollCode.AssemblyInfoInputs.cache
+/home/isolyth/Documents/Programming/Projects/DollCode/DollCode/obj/Debug/net9.0/DollCode.AssemblyInfo.cs
+/home/isolyth/Documents/Programming/Projects/DollCode/DollCode/obj/Debug/net9.0/DollCode.csproj.CoreCompileInputs.cache
+/home/isolyth/Documents/Programming/Projects/DollCode/DollCode/obj/Debug/net9.0/DollCode.dll
+/home/isolyth/Documents/Programming/Projects/DollCode/DollCode/obj/Debug/net9.0/refint/DollCode.dll
+/home/isolyth/Documents/Programming/Projects/DollCode/DollCode/obj/Debug/net9.0/DollCode.pdb
+/home/isolyth/Documents/Programming/Projects/DollCode/DollCode/obj/Debug/net9.0/DollCode.genruntimeconfig.cache
+/home/isolyth/Documents/Programming/Projects/DollCode/DollCode/obj/Debug/net9.0/ref/DollCode.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JE4uWmUlM4s=",
+  "success": true,
+  "projectFilePath": "/home/isolyth/Documents/Programming/Projects/DollCode/DollCode/DollCode.csproj",
+  "expectedPackageFiles": [
+    "/home/isolyth/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
